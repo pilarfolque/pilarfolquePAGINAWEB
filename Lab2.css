@@ -1,0 +1,94 @@
+body{
+    background-color: bisque;
+    color: rgb(146, 67, 210) ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#carrito{
+    background-color: bisque;
+    color: rgb(146, 67, 210) ;
+    border-color: rgb(146, 67, 210);
+}
+
+img.a{
+    width: 25em;
+    height: 30em;
+    padding: 10em;
+    background-color:cornsilk;
+  
+}
+
+img.b{
+    width: 25em;
+    height: 30em;
+    padding: 10em;
+    background-color:aquamarine;
+}
+
+img.c{
+    width: 25em;
+    height: 30em;
+    padding: 10em;
+    background-color:rgb(161, 220, 172);
+}
+
+img.d{
+    width: 25em;
+    height: 30em;
+    padding: 10em;
+    background-color: rgb(199, 249, 190);
+}
+
+img.e{
+    width: 25em;
+    height: 30em;
+    padding: 10em;
+    background-color: rgb(213, 237, 142);
+}
+
+img.f{
+    width: 25em;
+    height: 30em;
+    padding: 10em;
+    background-color: rgb(168, 221, 221);
+}
+
+td.1{
+    background-color: aqua;
+}
+
+#b1{
+    background-color: bisque;
+    color: rgb(146, 67, 210);
+    border-color: rgb(146, 67, 210);
+}
+
+#b2{
+    background-color: bisque;
+    color: rgb(146, 67, 210);
+    border-color: rgb(146, 67, 210);
+}
+
+#b3{
+    background-color: bisque;
+    color:rgb(146, 67, 210);
+    border-color: rgb(146, 67, 210);
+}
+
+#b4{
+    background-color: bisque;
+    color: rgb(146, 67, 210);
+    border-color: rgb(146, 67, 210);
+}
+
+#b5{
+    background-color: bisque;
+    color: rgb(146, 67, 210);
+    border-color: rgb(146, 67, 210);
+}
+
+#b6{
+    background-color: bisque;
+    color: rgb(146, 67, 210);
+    border-color: rgb(146, 67, 210);
+}
